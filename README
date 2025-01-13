@@ -1,3 +1,19 @@
+This is a fork of
+https://sourceforge.net/projects/terminus-font/files/terminus-font-4.49/
+with the purpose of adding a lightly modified version of Terminus called
+TerminusCore.
+
+TerminusCore was created primarily for use with OpenCore, and makes some
+glyphs (@KMRSTVWimrsw) more similar to the free ISO Latin font used in XNU
+and OpenCore.
+
+REFS:
+https://github.com/mikebeaton/terminus-font-4.49.1/commit/6905a7bc9a12571a83917979a16c3218b836ce08
+https://github.com/acidanthera/OpenCorePkg/tree/master/Docs/Configuration.pdf
+https://github.com/acidanthera/OcBinaryData/tree/master/Resources/Font
+
+-----
+
 Contents:
 
 1. About.
